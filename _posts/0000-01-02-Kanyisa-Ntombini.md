@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+Beautiful house in the village surrounded with flowers
 Use the left arrow to go back!
